@@ -5,7 +5,7 @@ These scripts are for loading data to MySQL database using `faker` library and t
 ## Dependencies
 
 * Python 3.10.6
-* All you need for installing another dependencies, is's use some terminal commmands:
+* All you need for installing another dependencies, is to use some terminal commmands:
     * Create `env` file with a command depending on your OS.
     * Use `pip install -r requirements.txt` command in terminal.
 
@@ -15,7 +15,7 @@ You have installed the dependencies!
 
 ### `download.py`
 
-* Open `config` file and change variables with your values to connect to the database.
+* Open `config` file and change variables with your values to connect to database.
 * Replace the number in the `counter` variable with the number of records you need to load into the database.
 * Run `download.py` from terminal.
 
